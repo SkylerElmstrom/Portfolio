@@ -48,12 +48,12 @@ date_format = "Jan 2006"
   location = "Bellingham, WA"
   date_start = "2017-11-01"
   date_end = "2018-05-01"
-  description = """I produced geospatial products tailored to remote project locations on Kauai, HI for several pumped-hydroelectric projects in support of Hawaii's renewable energy initiatives."""
+  description = """I produced geospatial products tailored to remote project locations on Kauai, HI for several pumped-hydroelectric projects in support of Hawaii's renewable energy initiatives.
   Responsibilities include:
   
   * Evaluate Potential Costs, Feasibility of sUAS Structure-from-Motion (sfm) Products of Project Infrastructure
   * Interpret Engineering Plans, Cross-checked Calculations, and Exported AutoCAD-ready GIS Data
-  * Compile and Manage Project Geodatabase
+  * Compile and Manage Project Geodatabase"""
   
 [[experience]]
   title = "SEAGRANT Summer Scholar"
@@ -62,12 +62,12 @@ date_format = "Jan 2006"
   location = "Newport, OR"
   date_start = "2016-06-01"
   date_end = "2016-08-01"
-  description = """I was chosen for a competitive SEAGRANT fellowship program and placed with ODF&W's shellfish and estuarine assessment of coastal Oregon (SEACOR) project team where I assisted with the operation and evaluation of UAVs as a potential tool for estuarine management and research."""
+  description = """I was chosen for a competitive SEAGRANT fellowship program and placed with ODF&W's shellfish and estuarine assessment of coastal Oregon (SEACOR) project team where I assisted with the operation and evaluation of UAVs as a potential tool for estuarine management and research.
   Responsibilities include:
   
   * Ingestion of GPS RTK points, Raw Aerial Imagery Processing
   * Developing Inhouse Procedures for UAV and GIS data workflows
-  * Assisting with Field Data Collection and Public Outreach
+  * Assisting with Field Data Collection and Public Outreach"""
   
 [[experience]]
   title = "Sergeant (E-5) Topographic Intelligence Specialist (MOS 0261)"
@@ -76,11 +76,11 @@ date_format = "Jan 2006"
   location = "Camp Pendleton, CA"
   date_start = "2010-09-01"
   date_end = "2014-12-01"
-  description = """My primary responsibilities were to provide geospatial support (collect, analyze, process, and disseminate geophysical data) by utilizing various software and equipment, constructing tailored products, conducting geodetic, topographic, and hydrographic survey operations, and analyzing terrain and hydrography as a functional aspect of military intelligence."""
+  description = """My primary responsibilities were to provide geospatial support (collect, analyze, process, and disseminate geophysical data) by utilizing various software and equipment, constructing tailored products, conducting geodetic, topographic, and hydrographic survey operations, and analyzing terrain and hydrography as a functional aspect of military intelligence.
   Responsibilities include:
   
   * Geospatial-Intelligence and Terrain Analysis in Enterprise GIS Environment
   * Team Leader for Terminal Aeronautical GNSS Geodetic Surveys (TAGGS) in Partnership with NGA
-  * Co-authored Guidance to the Marine Corps on Airfield Surveys and Wrote Inhouse Training Materials
+  * Co-authored Guidance to the Marine Corps on Airfield Surveys and Wrote Inhouse Training Materials"""
 
 +++
