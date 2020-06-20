@@ -6,7 +6,7 @@ summary: This workshop by Jonathon A. Kemp provided me with my fundamental
   understanding of open-source options for GIS such as *QGIS*, *Leaflet* (web
   mapping API), and *MapBox* (customizable base map service).
 draft: true
-featured: false
+featured: true
 tags:
   - Open Source
   - QGIS
