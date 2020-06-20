@@ -1,7 +1,7 @@
 ---
 draft: true
 view: 2
-title: Posts
+title: Placeholder
 subtitle: Placeholder
 date: 2020-06-20T16:03:36.675Z
 summary: Placeholder
