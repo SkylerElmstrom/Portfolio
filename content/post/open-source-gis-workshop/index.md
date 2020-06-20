@@ -29,11 +29,11 @@ Skills learned:
 
 * **QGIS Basics**: Projecting Data, Definition Queries, Python, QGIS "composer"
 
-  **QGIS Advanced**: Deploying to the Web, Web Mapping APIs, OpenStreetMap, Geoprocessing, Summary Statistics, Field Calculator + Expressions
+*  **QGIS Advanced**: Deploying to the Web, Web Mapping APIs, OpenStreetMap, Geoprocessing, Summary Statistics, Field Calculator + Expressions
 
-  **MapBox**: Designing Custom Basemaps
+*  **MapBox**: Designing Custom Basemaps
 
-  **Leaflet API**: Deploying a Simple Web Map to Github
+*  **Leaflet API**: Deploying a Simple Web Map to Github
 
 <br>
 
