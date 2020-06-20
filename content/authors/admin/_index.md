@@ -9,9 +9,9 @@ authors:
   - admin
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - GIS
+  - Data
+  - Ecology
 social:
   - icon: envelope
     icon_pack: fas
