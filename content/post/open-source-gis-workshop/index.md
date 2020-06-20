@@ -45,6 +45,4 @@ Examples of my work in this workshop using QGIS and MapBox service layers:
 
 ![Map 2 - QGIS and Open Street Map](opensourcews_map2.png "Second QGIS Map")
 
-
-
 ![Map 4 - Cumulative Skills Map](opensourcews_map4.png "Final QGIS Map")
