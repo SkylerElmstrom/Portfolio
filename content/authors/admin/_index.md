@@ -1,7 +1,7 @@
 ---
 title: Skyler Elmstrom
 role: GIS Professional (9 Years)
-avatar_filename: pic1.png
+avatar_filename: avatar.png
 organizations:
   - name: Transitioning
 superuser: true
