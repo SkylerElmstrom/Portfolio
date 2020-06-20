@@ -15,7 +15,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: mailto:skylerelmstrom@gmail.com
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/selmstrom/
