@@ -13,24 +13,35 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+[[feature]]
+  icon = "map-marked-alt"
+  icon_pack = "fas"
+  name = "GIS"
+  description = "Expert"
 
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = "Intermediate" 
+  
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = "Intermediate"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "Intermediate"  
-  
+
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
   description = "Basic"
+  
+[[feature]]
+  icon = "hand-spock"
+  icon_pack = "fas"
+  name = "Trek Fan"
+  description = "Advanced"
 
 # Uncomment to use emoji icons.
 # [[feature]]
