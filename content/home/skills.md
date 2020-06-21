@@ -20,10 +20,16 @@ subtitle = ""
   description = "Expert (9 years)"
 
 [[feature]]
+  icon = "satellite"
+  icon_pack = "fas"
+  name = "Remote Sensing and sUAS"
+  description = "Advanced (5 years)"
+
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Intermediate (2 years)" 
+  description = "Intermediate (2 years)"
 
 [[feature]]
   icon = "r-project"
@@ -42,12 +48,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "SQL"
   description = "Basic (1 year)"
-  
-[[feature]]
-  icon = "hand-spock"
-  icon_pack = "fas"
-  name = "Trek Fan"
-  description = "Advanced"
 
 # Uncomment to use emoji icons.
 # [[feature]]
