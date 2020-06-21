@@ -19,7 +19,7 @@ social:
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/selmstrom/
-  - icon: github
+  - icon: github-square
     icon_pack: fab
     link: https://github.com/skylerelmstrom
   - icon_pack: fab
