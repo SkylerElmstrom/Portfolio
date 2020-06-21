@@ -13,7 +13,7 @@ tags:
 image:
   filename: opensourcews_map4.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   alt_text: A map with basic analysis made using QGIS.
   caption: Open Source Mapping using QGIS and Leaflet
 ---
