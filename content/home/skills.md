@@ -17,37 +17,31 @@ subtitle = ""
   icon = "map-marked-alt"
   icon_pack = "fas"
   name = "GIS"
-  description = "Expert"
+  description = "Expert (9 years)"
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "Advanced"
-  
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Intermediate" 
+  description = "Intermediate (2 years)" 
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Intermediate"
+  description = "Advanced (4 years)"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Intermediate"
+  description = "Intermediate (3 years)"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Basic"
+  description = "Basic (1 year)"
   
 [[feature]]
   icon = "hand-spock"
