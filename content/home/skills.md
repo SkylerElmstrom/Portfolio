@@ -27,7 +27,7 @@ subtitle = ""
   description = "Intermediate"  
   
 [[feature]]
-  icon = "fa-database"
+  icon = "database"
   icon_pack = "fas"
   name = "SQL"
   description = "Basic"
