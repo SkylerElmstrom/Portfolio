@@ -20,16 +20,28 @@ subtitle = ""
   description = "Expert"
 
 [[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "Advanced"
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "Intermediate" 
-  
+
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = "Intermediate"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = "Intermediate" 
 
 [[feature]]
   icon = "database"
