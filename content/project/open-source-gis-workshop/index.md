@@ -17,7 +17,7 @@ external_link: /opensourceworkshop
 image:
   filename: opensourcews_map4.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   alt_text: A map with basic analyses made using QGIS.
 ---
 ## **Open Source GIS Workshop - Winter 2019**
