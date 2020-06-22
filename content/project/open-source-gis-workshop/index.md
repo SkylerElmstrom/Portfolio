@@ -15,7 +15,7 @@ tags:
   - MapBox
 external_link: project/open-source-gis-workshop/
 image:
-  filename: opensourcews_map4_25.png
+  filename: featured.png
   focal_point: Smart
   preview_only: true
   alt_text: A map with basic analyses made using QGIS.
