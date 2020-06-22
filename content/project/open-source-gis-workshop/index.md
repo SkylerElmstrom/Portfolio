@@ -13,7 +13,6 @@ tags:
   - QGIS
   - Leaflet
   - MapBox
-external_link: project/open-source-gis-workshop/
 image:
   filename: featured.png
   focal_point: Smart
