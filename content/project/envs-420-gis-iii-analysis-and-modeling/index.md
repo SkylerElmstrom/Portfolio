@@ -4,10 +4,12 @@ subtitle: Western Washington University
 date: 2017-12-18T06:51:13.878Z
 summary: This course provided me an in-depth examination of spatial data
   formats, spatial data analysis, and geoprocessing using ArcGIS and
-  ModelBuilder.
+  ModelBuilder. The primary work assessed human and environmental problems using
+  GIS to explain and predict based on location, terrain, and human-environment
+  interactions.
 draft: false
 featured: true
-external_link: a
+external_link: https://skylerelmstrom.netlify.app/project/envs-420-gis-iii-analysis-and-modeling/
 image:
   filename: featured.png
   focal_point: Smart
