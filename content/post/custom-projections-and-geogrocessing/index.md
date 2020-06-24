@@ -14,7 +14,7 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-This lesson was designed to explore distortions of distance and area by different projections, examining geospatial metadata, customizing a projection for a map, using geoprocessing tools to identify features within a specified distance of some other feature, and developing cost-path analyses using ModelBuilder.
+This lesson was designed to explore distortions of distance and area by different projections, examining geospatial metadata, customizing a projection for a map, and using geoprocessing tools to identify features within a specified distance of some other feature.
 
 ## Yellowstone
 
