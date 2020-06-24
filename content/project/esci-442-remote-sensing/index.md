@@ -14,7 +14,7 @@ tags:
   - GIS
   - LIDAR
   - sUAS
-external_link: https://skylerelmstrom.netlify.app/projects/ESCI-442-Remote-Sensing
+external_link: https://skylerelmstrom.netlify.app/project/esci-442-remote-sensing/
 image:
   filename: featured.png
   focal_point: Smart
