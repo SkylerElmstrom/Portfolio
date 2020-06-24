@@ -11,7 +11,7 @@ draft: false
 featured: true
 external_link: a
 image:
-  filename: areastatistics.png
+  filename: featured.png
   focal_point: Smart
   preview_only: true
 ---
