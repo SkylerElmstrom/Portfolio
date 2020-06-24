@@ -1,19 +1,19 @@
 ---
 title: "ENVS 420 - GIS III: Analysis and Modeling"
 subtitle: Western Washington University
-date: 2020-06-24T05:51:13.878Z
+date: 2017-12-18T06:51:13.878Z
 summary: This course provided me an in-depth examination of spatial data
   formats, spatial data analysis, and geoprocessing using ArcGIS and
   ModelBuilder. The primary work assessed human and environmental problems using
   GIS to explain and predict based on location, terrain, and human-environment
   interactions.
 draft: false
-featured: false
+featured: true
 external_link: a
 image:
   filename: areastatistics.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 This course provided me an in-depth examination of spatial data formats, spatial data analysis, and geoprocessing. My course objectives were:
 
