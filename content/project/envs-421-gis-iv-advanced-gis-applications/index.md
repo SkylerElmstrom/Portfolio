@@ -3,8 +3,8 @@ title: "ENVS 421 - GIS IV: Advanced GIS Applications"
 subtitle: Western Washington University
 date: 2018-03-21T06:23:30.989Z
 summary: This course provided me with advanced knowledge in the use of
-  geodatabases, fundamental satellite imagery utilization and interpretation,
-  ArcGIS ModelBuilder, geometric networks, linear referencing, and an
+  geodatabases, ArcGIS ModelBuilder, geometric networks, linear referencing as
+  well as fundamental satellite imagery utilization and interpretation and an
   introduction to ArcGIS Online.
 draft: false
 featured: true
@@ -14,4 +14,4 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-This course provided me with advanced knowledge in the use of geodatabases, fundamental satellite imagery utilization and interpretation, ArcGIS ModelBuilder, geometric networks, linear referencing, and an introduction to ArcGIS Online.
+This course provided me with advanced knowledge in the use of geodatabases, ArcGIS ModelBuilder, geometric networks, linear referencing as well as fundamental satellite imagery utilization and interpretation and an introduction to ArcGIS Online.
