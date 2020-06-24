@@ -16,7 +16,7 @@ tags:
   - sUAS
 external_link: https://skylerelmstrom.netlify.app/projects/ESCI-442-Remote-Sensing
 image:
-  filename: surface0905_webversion2.png
+  filename: featured.png
   focal_point: Smart
   preview_only: true
   caption: Nooksack River Channel Migration Map
