@@ -5,7 +5,7 @@ date: 2018-03-20T16:29:51.662Z
 summary: This course covered the theory of remote sensing, platforms, and image
   analysis techniques in ENVI including classification, spectral analysis,
   change detection, PCA, and image segmentation using Orfeo and R. We also
-  analyzed LIDAR using USGS FUSION and sUAS structure-from-motion data from
+  analyzed LIDAR using USGS FUSION and sUAS structure-from-motion data using
   Agisoft Photoscan.
 draft: false
 featured: true
