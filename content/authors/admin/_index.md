@@ -30,6 +30,8 @@ education:
     - course: B.S. in Environmental Science
       institution: Western Washington University
       year: 2020
+    - course: GIS Minor & Certificate: Western Washington University
+      year: 2020
 email: ""
 user_groups:
   - ""
