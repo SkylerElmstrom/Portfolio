@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "Bellingham, WA"
   date_start = "2019-07-01"
   date_end = "2020-02-01"
-  description = """
-  Responsibilities include:
+  description = """I managed GIS land records data and provided assistance to office staff as needed.
   
-  * ArcGIS Enterprise Property Data Management
-  * GIS Upgrade from Paper Maps and Records
-  * Assisting with Development of Internal and Public-facing GIS Applications
-  * Assisting with Office Workflows
+  * Managed ArcGIS Enterprise Parcel Fabric Property Data
+  * Supported GIS Transition from Paper Maps and Records to Digital
+  * Developed GIS Automation Strategies For More Efficient Data Management
+  * Collaborated on Developing Internal and Public-facing GIS Applications
+  * Assisted with office workflows
   """
 
 [[experience]]
@@ -40,7 +40,12 @@ date_format = "Jan 2006"
   location = "Lynnwood, WA"
   date_start = "2015-09-01"
   date_end = "2019-06-01"
-  description = """Responsible for updating and maintaining the Learn-and-Serve Environmental Anthropology Field (LEAF) School geodatabase, data entry from field collections, and developing geospatial products for use in technical reports to the City of Mukilteo and Snohomish County Airport."""
+  description = """I led volunteers and specialized in providing GIS services for a salmon monitoring project in partnership with Edmonds Community College, the City of Mukilteo, and Snohomish County Airport in support of mitigation banking for a proposed runway expansion.
+  
+  * Established and Completed GIS workflows from Field Collection to Reporting 
+  * Updated and Maintained Salmon Monitoring Project Geodatabase
+  * Developed Geospatial Products for use in Technical Reports
+  * Led and Guided Teams of Volunteers in Collecting Data"""
   
 [[experience]]
   title = "GIS Consultant"
@@ -49,26 +54,24 @@ date_format = "Jan 2006"
   location = "Bellingham, WA"
   date_start = "2017-11-01"
   date_end = "2018-05-01"
-  description = """I produced geospatial products tailored to remote project locations on Kauai, HI for several pumped-hydroelectric projects in support of Hawaii's renewable energy initiatives.
-  Responsibilities include:
+  description = """I produced geospatial products tailored to remote project locations on Kauai, HI for several pumped-hydroelectric projects in support of Hawaii's renewable energy initiatives.  
   
-  * Evaluate Potential Costs, Feasibility of sUAS Structure-from-Motion (sfm) Products of Project Infrastructure
-  * Interpret Engineering Plans, Cross-checked Calculations, and Exported AutoCAD-ready GIS Data
-  * Compile and Manage Project Geodatabase"""
+  * Evaluated Potential Costs, Feasibility of sUAS Structure-from-Motion (sfm) Products of Project Infrastructure
+  * Interpreted Engineering Plans, Cross-checked Calculations, and Exported AutoCAD-ready GIS Data
+  * Compiled and Managed Project Geodatabase"""
   
 [[experience]]
   title = "SEAGRANT Summer Scholar"
   company = "Oregon Department of Fish and Wildife - SEACOR Team"
-  company_url = ""
+  company_url = "https://www.dfw.state.or.us/mrp/shellfish/seacor/"
   location = "Newport, OR"
   date_start = "2016-06-01"
   date_end = "2016-08-01"
-  description = """I was chosen for a competitive SEAGRANT fellowship program and placed with ODF&W's shellfish and estuarine assessment of coastal Oregon (SEACOR) project team where I assisted with the operation and evaluation of UAVs as a potential tool for estuarine management and research.
-  Responsibilities include:
+  description = """I was a SEAGRANT scholar for ODF&W's Shellfish and Estuarine Assessment of Coastal Oregon (SEACOR) project team where I assisted with the operation and evaluation of sUAS as a potential tool for estuarine management and research.
   
-  * Ingestion of GPS RTK points, Raw Aerial Imagery Processing
-  * Developing Inhouse Procedures for UAV and GIS data workflows
-  * Assisting with Field Data Collection and Public Outreach"""
+  * Prepared GPS RTK Ground Control Points and Georeferenced and Processed Aerial Imagery
+  * Developed Inhouse Procedures for UAV and GIS data workflows
+  * Assisted with Field Data Collection and Public Outreach"""
   
 [[experience]]
   title = "Sergeant (E-5) Topographic Intelligence Specialist (MOS 0261)"
@@ -77,11 +80,10 @@ date_format = "Jan 2006"
   location = "Camp Pendleton, CA"
   date_start = "2010-09-01"
   date_end = "2014-12-01"
-  description = """My primary responsibilities were to provide geospatial support (collect, analyze, process, and disseminate geophysical data) by utilizing various software and equipment, constructing tailored products, conducting geodetic, topographic, and hydrographic survey operations, and analyzing terrain and hydrography as a functional aspect of military intelligence.
-  Responsibilities include:
+  description = """My primary responsibilities were to provide geospatial support (collect, analyze, process, and disseminate geophysical data) by utilizing various software and equipment, constructing tailored products, conducting geodetic, topographic, and hydrographic survey operations, and analyzing terrain and hydrography as a functional aspect of military intelligence.  
   
-  * Geospatial-Intelligence and Terrain Analysis in Enterprise GIS Environment
-  * Team Leader for Terminal Aeronautical GNSS Geodetic Surveys (TAGGS) in Partnership with NGA
-  * Co-authored Guidance to the Marine Corps on Airfield Surveys and Wrote Inhouse Training Materials"""
+  * Conducted Geospatial-Intelligence and Terrain Analysis in Enterprise GIS Environment
+  * Led Teams for Terminal Aeronautical GNSS Geodetic Surveys (TAGGS) in Partnership with NGA
+  * Co-authored Guidance to the Marine Corps on Airfield Surveys and Wrote In-house Training Materials"""
 
 +++
