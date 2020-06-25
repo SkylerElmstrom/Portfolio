@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   
   * ArcGIS Enterprise Property Data Management
   * GIS Upgrade from Paper Maps and Records
+  * Assisting with Development of Internal and Public-facing GIS Applications
   * Assisting with Office Workflows
   """
 
