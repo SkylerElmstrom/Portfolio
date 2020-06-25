@@ -31,4 +31,4 @@ Spatial data from the City of Bellingham provided me with attendance zones to us
 
 This map was a test of acquired skills in previous lessons. I created it using voronoi (euclidean distance) polygons between each national park in the US, similar to the map found [here](https://www.reddit.com/r/MapPorn/comments/21yoxe/voronoi_map_of_national_parks_the_usa_divided/) but with a few more cartographic refinements.
 
-![Map of US National Park Proximity](elmstrom_exam2.png "Map of US National Park Proximity")
+![Map of US National Park Proximity](elmstrom_exam2_25.png "Map of US National Park Proximity")
