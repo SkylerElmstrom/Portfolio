@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "GIS Specialist"
   company = "Edmonds Community College - Anthropology Department"
-  company_url = ""
+  company_url = "https://www.academia.edu/38159730/Repatriating_Salmon_to_Point_Elliott_Fish_and_Wildlife_in_b%C7%9Dka_ltiu_Mukilteo_2012_-_2018"
   location = "Lynnwood, WA"
   date_start = "2015-09-01"
   date_end = "2019-06-01"
