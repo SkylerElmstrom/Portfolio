@@ -23,7 +23,7 @@ Samples of some of my coursework can be found below:
 
 [Creating Custom Projections and Geoprocessing](https://skylerelmstrom.netlify.app/post/custom-projections-and-geogrocessing/)
 
-Vector Analysis and Census Data
+[Vector Analysis and Census Data](https://skylerelmstrom.netlify.app/post/vector-analysis-and-census-data/)
 
 Raster Analysis
 
