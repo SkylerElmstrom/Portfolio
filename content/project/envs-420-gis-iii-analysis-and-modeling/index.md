@@ -15,9 +15,9 @@ image:
 ---
 This course provided me an in-depth examination of spatial data formats, spatial data analysis, and geoprocessing. My course objectives were:
 
-> *Assess human and environmental issues/problems using GIS*\
-> *Analyze space, place, landscape, location, and human-environment interactions for the purposes of explanation and prediction using GIS*\
-> *Analyze and communicate ideas effectively in oral, written, and visual forms*
+> * *Assess human and environmental issues/problems using GIS*
+> * *Analyze space, place, landscape, location, and human-environment interactions for the purposes of explanation and prediction using GIS*
+> * *Analyze and communicate ideas effectively in oral, written, and visual forms*
 
 Samples of some of my coursework can be found below:
 
