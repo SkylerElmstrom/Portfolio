@@ -20,7 +20,7 @@ image:
 ---
 This lesson was on using raster tools within ArcGIS such as ***Raster Datasets***, ***Aggregate, Raster Calculator, Focal Statistics, Reclassify, Slope, Weighted Overlay,*** and ***Least-Cost Path***  with a focus on using *ModelBuilder* to create reproducible workflows.
 
-Cost-Path Analysis
+### Cost-Path Analysis
 
 > Help pinpoint potential archaeological sites by estimating least-cost path trade routes from Winthrop, WA to coastal WA areas assuming trade routes follow rivers and routes with relatively low cumulative slope.
 
@@ -44,3 +44,9 @@ A map including my final analysis:
 My final model:
 
 ![Raster processing and cost path model](model.png "Raster Processing and Cost Path Model")
+
+### Aspect and Slope
+
+I created a combined aspect slope raster using the skills from this lesson as a challenge and the off-google search wondering if I could map aspect and slope with the same raster. This strategy was based on suggestions and techniques by Cynthia Brewer, Ken Marlow, and Aileen Buckley and the ESRI R&D team. The design essentially uses simulated illumination (brightness) for slope, and industry standard coloration for aspect.
+
+![Combined Aspect-Slope Map](elmstrom_exam4_25.png "Combined Aspect-Slope Map")
