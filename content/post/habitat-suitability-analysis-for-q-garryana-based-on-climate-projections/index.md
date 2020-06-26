@@ -1,5 +1,5 @@
 ---
-title: Habitat Suitability Analysis for Q. Garryana based on Climate Projections
+title: Modeling Habitat Suitability based on Climate Projections
 subtitle: Raster Calculator, Raster Projections, Zonal Statistics
 date: 2017-12-16T01:54:16.669Z
 summary: ""
@@ -33,4 +33,10 @@ The production of the Q. garryana model required advanced use of ***Raster Calcu
 
 The map series I created for this report can be seen below:
 
-![](garryoak.gif)
+![Q. garryana suitability GIF](garryoak.gif "Q. garryana Suitability Change")
+
+A model containing the input climate variables with their respective binary calculation and the final suitability output:
+
+![Q. garryana ModelBuilder Model](elmstrom_lab5_model.png "Q. garryana Model")
+
+Each input is parameterized and can be rerun to include different datasets.
