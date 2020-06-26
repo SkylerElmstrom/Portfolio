@@ -27,4 +27,4 @@ Samples of some of my coursework can be found below:
 
 [Raster Analysis](https://skylerelmstrom.netlify.app/post/raster-analysis/)
 
-Habitat Suitability Analysis for Q. Garryana based on Climate Projections
+[Habitat Suitability Analysis for Q. Garryana based on Climate Projections](https://skylerelmstrom.netlify.app/post/modeling-habitat-suitability-based-on-climate-projections)
