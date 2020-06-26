@@ -22,10 +22,8 @@ This lesson a cumulative application of the skills we developed in this course. 
 ### GIS Modeling of Climate Change Impacts on *Q. garryana* (a.k.a Oregon White Oak Garry Oak)
 
 > * Analyze potential future climate change impacts on forests in western North America
->
->   Develop a GIS-based model to quantify projected shifts in the range of Q. garryana under various climate change scenarios for the late 21st century
->
->   Test model and format it so that it will be easy to re-use it with other projections of future climate conditions
+> * Develop a GIS-based model to quantify projected shifts in the range of Q. garryana under various climate change scenarios for the late 21st century
+> * Test model and format it so that it will be easy to re-use it with other projections of future climate conditions
 
 #### My full report can be found {{% staticref "files/envs420/Elmstrom_Lab5_Report.pdf" "newtab" %}}here{{% /staticref %}}.
 
