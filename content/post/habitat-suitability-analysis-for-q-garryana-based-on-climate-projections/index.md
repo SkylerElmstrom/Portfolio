@@ -17,7 +17,7 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-This lesson was more a cumulative application of the skills we developed in this course. We used data from the [GESC](https://www.usgs.gov/centers/gecsc/data-tools) to develop products from.
+This lesson a cumulative application of the skills we developed in this course. We used data from the [GESC](https://www.usgs.gov/centers/gecsc/data-tools) to develop products from.
 
 ### GIS Modeling of Climate Change Impacts on *Q. garryana* (a.k.a Oregon White Oak Garry Oak)
 
