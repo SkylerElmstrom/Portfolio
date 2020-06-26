@@ -25,6 +25,6 @@ Samples of some of my coursework can be found below:
 
 [Vector Analysis and Census Data](https://skylerelmstrom.netlify.app/post/vector-analysis-and-census-data/)
 
-Raster Analysis
+[Raster Analysis](https://skylerelmstrom.netlify.app/post/raster-analysis/)
 
 Suitability Analysis for Q. Garryana based on Climate Projections
