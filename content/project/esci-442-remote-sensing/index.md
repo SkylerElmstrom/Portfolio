@@ -6,7 +6,7 @@ summary: This course covered the theory of remote sensing, platforms, and image
   analysis techniques in ENVI including classification, spectral analysis,
   change detection, PCA, and image segmentation using Orfeo and R. We also
   analyzed LIDAR using USGS FUSION and sUAS structure-from-motion data using
-  Agisoft Photoscan.
+  Agisoft Photoscan and ArcMap.
 draft: false
 featured: true
 tags:
@@ -28,7 +28,7 @@ This course by Dr. David Wallin covered the theory of EM radiation, examinations
 
 This course also required in depth writing in the form of a report for each module. My reports containing sample work can be found below:
 
-{{% staticref "files/esci442/Elmstrom_Lab2_Report.pdf" "newtab" %}}Spectral analysis of Persian Gulf Oil Spills{{% /staticref %}}
+{{% staticref "files/esci442/Elmstrom_Lab2_Report.pdf" "newtab" %}}Spectral Analysis of Persian Gulf Oil Spills{{% /staticref %}}
 
 {{% staticref "files/esci442/Elmstrom_Lab3_Report.pdf" "newtab" %}}Unsupervised Classification of Baker Bay, WA{{% /staticref %}}
 
