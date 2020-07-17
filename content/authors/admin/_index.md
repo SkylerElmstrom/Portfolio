@@ -35,7 +35,7 @@ education:
       year: 2020
     - course: Graduate Certificate - Data Science
       institution: Western Washington University
-      year: 2021 (In progress)
+      year: 2021
 
 email: ""
 user_groups:
