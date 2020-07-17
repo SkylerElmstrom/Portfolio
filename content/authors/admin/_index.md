@@ -33,6 +33,9 @@ education:
     - course: GIS Minor & Certificate
       institution: Western Washington University
       year: 2020
+    - course: Graduate Certificate - Data Science
+      institution: Western Washington University
+      year: 2021 (In progress)
 
 email: ""
 user_groups:
