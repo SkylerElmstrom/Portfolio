@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   * Organize, Prepare, and Manage Project GIS Data
   * Conduct and Provide GIS Products for Reports and Communications
   * Developed GIS Automation Strategies For More Efficient Data Management
-  * Assist with the Development of Baysian network Models for Evaulating the Relative Risk of Changes to Water Quality, Toxins, and Climate Change to Protected End-point Species such as Delta Smelt and Chinook Salmon
+  * Assist with Development of Baysian Network Models for Evaluating the Relative Risk of Environmental Changes to Protected End-point Species such as Delta Smelt and Chinook Salmon
   """
   
 [[experience]]
