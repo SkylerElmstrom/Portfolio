@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Assistant II"
+  company = "Institue of Environmental Toxicology & Chemistry, Western Washington University"
+  company_url = "https://wp.wwu.edu/toxicology/about-iet/"
+  location = "Bellingham, WA"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """I provide technical GIS and statistical assistance for two San Francisco Bay area research projects: San Francisco Delta risk assessment and an NSF-funded microplastics risk assessment.
+  
+  * Organize, Prepare, and Manage Project GIS Data
+  * Conduct and Provide GIS Products for Reports and Communications
+  * Developed GIS Automation Strategies For More Efficient Data Management
+  * Assist with the Development of Baysian network Models for Evaulating the Relative Risk of Changes to Water Quality, Toxins, and Climate Change to Protected End-point Species such as Delta Smelt and Chinook Salmon
+  """
+  
+[[experience]]
   title = "Drafter/GIS Technician II"
   company = "Whatcom County Assessor's Office"
   company_url = "http://www.whatcomcounty.us/177/Assessor"
