@@ -24,11 +24,12 @@ date_format = "Jan 2006"
   location = "Bellingham, WA"
   date_start = "2020-07-01"
   date_end = ""
-  description = "I provide technical GIS and statistical assistance for two San Francisco Bay area research projects: San Francisco Delta risk assessment and an NSF-funded microplastics risk assessment.
+  description = """I provide technical GIS and statistical assistance for two San Francisco Bay area research projects: San Francisco Delta risk assessment and an NSF-funded microplastics risk assessment.
   
   * Organize, prepare, and manage project GIS data
   * Conduct and provide GIS products for reports and communications
-  * Assist with the development of Baysian network models for evaulating the relative risk of changes to water quality, toxins, and climate change to protected end-point species such as Delta Smelt and Chinook Salmon"
+  * Assist with the development of Baysian network models for evaulating the relative risk of changes to water quality, toxins, and climate change to protected end-point species such as Delta Smelt and Chinook Salmon
+  """
   
 [[experience]]
   title = "Drafter/GIS Technician II"
