@@ -19,13 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant II"
-  company = "Western Washington University"
-  company_url = ""
+  company = "Institue of Environmental Toxicology & Chemistry, Western Washington University"
+  company_url = "https://wp.wwu.edu/toxicology/about-iet/"
   location = "Bellingham, WA"
   date_start = "2020-07-01"
   date_end = ""
   description = """I provide technical GIS and statistical assistance for two San Francisco Bay area research projects: San Francisco Delta risk assessment and an NSF-funded microplastics risk assessment.
-  
   * Organize, Prepare, and Manage Project GIS Data
   * Conduct and Provide GIS Products for Reports and Communications
   * Developed GIS Automation Strategies For More Efficient Data Management
