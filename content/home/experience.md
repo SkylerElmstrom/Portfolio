@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   * Author an internal R package for my team's common code
   * Develop and implement automated, reproducible reporting
   * Assist with other syndromic surveillance tasks, as needed
-  * Serve as a subject matter expert in data science
+  * Serve as a subject matter expert in data science<br>
     * Provide guidance for software and other technology adoptions
     * Lead skill building exercises for R, Git, GitHub, and other tools
     * Assist as requested with code development and review
