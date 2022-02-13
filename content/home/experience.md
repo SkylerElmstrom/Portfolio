@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Washington State Department of Health"
   company_url = "https://www.doh.wa.gov/ForPublicHealthandHealthcareProviders/HealthcareProfessionsandFacilities/DataExchange/SyndromicSurveillanceRHINO"
   location = "Remote"
-  date_start = "2020-07-01"
+  date_start = "2021-05-17"
   date_end = ""
   description = """I work with a team of epidemiologists that utilize electronic health record messaging from hospitals and clinics to monitor and report on emerging public health threats.
   
