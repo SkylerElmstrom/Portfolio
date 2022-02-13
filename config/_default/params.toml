@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {city = "Bellingham", region = "WA", postcode = "98225", country = "United States", country_code = "US"}
+address = {city = "Lynnwood", region = "WA", postcode = "98087", country = "United States", country_code = "US"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -110,7 +110,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "avatar.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
