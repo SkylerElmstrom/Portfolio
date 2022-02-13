@@ -17,25 +17,25 @@ subtitle = ""
   icon = "map-marked-alt"
   icon_pack = "fas"
   name = "GIS"
-  description = "Expert (9 years)"
+  description = "Expert (12 years)"
 
 [[feature]]
   icon = "satellite"
   icon_pack = "fas"
   name = "Remote Sensing and sUAS"
   description = "Advanced (5 years)"
-
+  
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Data Science"
   description = "Intermediate (2 years)"
-
+  
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced (4 years)"
+  description = "Advanced (7 years)"
 
 [[feature]]
   icon = "python"
