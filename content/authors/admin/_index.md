@@ -1,16 +1,17 @@
 ---
 title: Skyler Elmstrom
-role: GIS Professional (9 Years)
+role: Data Informatics Specialist (12 Years)
 avatar_filename: avatar.png
 organizations:
-  - name: Transitioning
+  - name: Washington State Department of Health
+  - name: Western Washington University
 superuser: true
 authors:
   - admin
 bio: ""
 interests:
+  - Data 
   - GIS
-  - Data
   - Ecology
 social:
   - icon: envelope
