@@ -18,10 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Public Health Informatics Specialist"
+  company = "Washington State Department of Health"
+  company_url = "https://www.doh.wa.gov/ForPublicHealthandHealthcareProviders/HealthcareProfessionsandFacilities/DataExchange/SyndromicSurveillanceRHINO"
+  location = "Remote"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """I work with a team of epidemiologists that utilize electronic health record messaging from hospitals and clinics to monitor and report on emerging public health threats.
+  
+  * Author an internal R package for my team's common code
+  * Develop and implement automated, reproducible reporting
+  * Assist with other syndromic surveillance tasks, as needed
+  * Serve as a subject matter expert in data science
+    * Provide guidance for software and other technology adoptions
+    * Lead skill building exercises for R, Git, GitHub, and other tools
+    * Assist as requested with code development and review
+    * Develop team processes and best practices for code workflows
+  """
+  
+[[experience]]
   title = "Research Assistant II"
   company = "Institue of Environmental Toxicology & Chemistry, Western Washington University"
   company_url = "https://wp.wwu.edu/toxicology/about-iet/"
-  location = "Bellingham, WA"
+  location = "Remote"
   date_start = "2020-07-01"
   date_end = ""
   description = """I provide technical GIS and statistical assistance for two San Francisco Bay area research projects: San Francisco Delta risk assessment and an NSF-funded microplastics risk assessment.
