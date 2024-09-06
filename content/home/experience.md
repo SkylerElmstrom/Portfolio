@@ -22,13 +22,13 @@ date_format = "Jan 2006"
   company = "Washington State Department of Health"
   company_url = "https://doh.wa.gov/about-us/executive-offices/prevention-safety-and-health/prevention-and-community-health"
   location = "Remote"
-  date_start = "2021-05-16"
+  date_start = "2023-05-16"
   date_end = ""
   description = """I serve a division of more than 450 public health staff by providing advanced informatics and analytics expertise to all Prevention & Community Health (PCH) division programs. I help design, lead, and execute strategic planning for our division's technology modernization, cloud readiness and enablement, health informatics systems, and workforce development. My role is the first of it's kind at WADOH and was created to help bridge IT support and Epidemiologist/analyst needs, provide feedback and implementation support for national and HL7 FHIR standards in PCH data systems, and support program needs with assistance or full support for code development, data management, and technology training or usage.
   
-  * Subject Matter Expert in code development and practices
-  * Subject Matter Expert in cloud data storage and analytics tools
-  * Subject Matter Expert in GitHub Enterprise use and organization administration
+  * Subject matter expert in code development and practices
+  * Subject matter expert in cloud data storage and analytics tools
+  * Subject matter expert in GitHub Enterprise use and organization administration
   * I am the lead organizer of an agency-wide code, data, and technology peer support group of more than 300 Epidemiologists, IT staff, and other public health staff and also lead several smaller workgroups specific to informatics work or my division's needs
   * I assist teams with integrating ArcGIS Enterprise, Databricks and Unity Catalog, Posit Cloud, and other databases and sources between their staff's various development environments and workflows.
   * I assist with or provide complete services for data pipeline engineering (ETL/ELT, analytical data preparation, ML/AI data preparation and model development, record linkages and data integration, importing or exporting data products using APIs, building data logging, monitoring and recovery processes)
