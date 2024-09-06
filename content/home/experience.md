@@ -18,13 +18,52 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Public Health Informatics Specialist"
+  title = "Public Health Informatics Specialist - Epidemiologist III"
+  company = "Washington State Department of Health"
+  company_url = "https://doh.wa.gov/about-us/executive-offices/prevention-safety-and-health/prevention-and-community-health"
+  location = "Remote"
+  date_start = "2021-05-16"
+  date_end = ""
+  description = """I serve a division of more than 450 public health staff by providing advanced informatics and analytics expertise to all Prevention & Community Health (PCH) division programs. I help design, lead, and execute strategic planning for our division's technology modernization, cloud readiness and enablement, health informatics systems, and workforce development. My role is the first of it's kind at WADOH and was created to help bridge IT support and Epidemiologist/analyst needs, provide feedback and implementation support for national and HL7 FHIR standards in PCH data systems, and support program needs with assistance or full support for code development, data management, and technology training or usage.
+  
+  * Subject Matter Expert in code development and practices
+  * Subject Matter Expert in cloud data storage and analytics tools
+  * Subject Matter Expert in GitHub Enterprise use and organization administration
+  * I am the lead organizer of an agency-wide code, data, and technology peer support group of more than 300 Epidemiologists, IT staff, and other public health staff and also lead several smaller workgroups specific to informatics work or my division's needs
+  * I assist teams with integrating ArcGIS Enterprise, Databricks and Unity Catalog, Posit Cloud, and other databases and sources between their staff's various development environments and workflows.
+  * I assist with or provide complete services for data pipeline engineering (ETL/ELT, analytical data preparation, ML/AI data preparation and model development, record linkages and data integration, importing or exporting data products using APIs, building data logging, monitoring and recovery processes)
+  * I assist my team with the development of advanced analytics products including PowerBI reports and ArcGIS dashboards or map applications
+  * I assist my team with implementing enterprise data governance and democratization
+  * I assist my division's senior epidemiologist with the prototyping of a pilot project for a novel national chronic disease surveillance system (MENDS → TRAX)
+  """
+  
+[[experience]]
+  title = "Public Health Informatics Specialist - Epidemiologist II"
+  company = "Washington State Department of Health"
+  company_url = "https://doh.wa.gov/about-us/executive-offices/prevention-safety-and-health/prevention-and-community-health/office-immunization"
+  location = "Remote"
+  date_start = "2021-11-17"
+  date_end = "2024-05-15"
+  description = """I worked with an office of epidemiologists and informatics specialists that utilize the Immunization Information System (WAIIS) for tracking, monitoring, assessing, and reporting vaccine supply, storage, and transfers as well as immunization records, rates, and coverage.
+  
+  * My primary role was developing data pipelines using Azure Databricks in R, Python, and SQL.
+  * Built workflow orchestration, analytics products, training for staff on the utilization of cloud analytics tools and storage, and responded to data management questions and requests for our Azure data lake.
+  * Interpreted complex stakeholder business logic into automated processes using Azure Databricks
+  * Created and maintained the Vaccine Provider Management Application data pipelines that combines information from the IIS and WADOH's Adult Vaccine Program and Child Vaccine program into a single source of truth for Vaccine program management.
+  * Facilitated the creation of machine user identities in Azure and Databricks for automated workflows
+  * Provided data management and technical solutions help as requested as an SME in R, Python, SQL, and Azure Cloud services and tools.
+  * Trained office staff in best practice use of GitHub, Databricks, R, Python, SQL, and other developer workflows and technologies.
+  * Organized and moderated several user groups focused on R/Python coding, Git and GitHub, and Cloud technology usage.
+  """
+  
+[[experience]]
+  title = "Public Health Informatics Specialist - Epidemiologist I"
   company = "Washington State Department of Health"
   company_url = "https://www.doh.wa.gov/ForPublicHealthandHealthcareProviders/HealthcareProfessionsandFacilities/DataExchange/SyndromicSurveillanceRHINO"
   location = "Remote"
   date_start = "2021-05-17"
-  date_end = ""
-  description = """I work with a team of epidemiologists that utilize electronic health record messaging from hospitals and clinics to monitor and report on emerging public health threats.
+  date_end = "2023-11-16"
+  description = """I work with a team of epidemiologists that utilize electronic health record messaging from hospitals and clinics to monitor and report on emerging public health threats (syndromic surveillance).
   
   * Author an internal R package for my team's common code
   * Develop and implement automated, reproducible reporting
