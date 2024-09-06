@@ -16,38 +16,38 @@ subtitle = ""
 [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
-  name = "GIS"
+  name = "GIS and Remote Sensing"
   description = "Expert (12 years)"
 
 [[feature]]
-  icon = "satellite"
-  icon_pack = "fas"
-  name = "Remote Sensing and sUAS"
-  description = "Advanced (5 years)"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Data Science"
-  description = "Intermediate (2 years)"
+  name = "Data Science, Engineering, and Advanced Analytics"
+  description = "Intermediate (4 years)"
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced (7 years)"
+  description = "Advanced (9 years)"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Intermediate (3 years)"
+  description = "Intermediate (5 years)"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "Basic (1 year)"
+  description = "Intermediate (3 years)"
+  
+[[feature]]
+  icon = "github"
+  icon_pack = "fas"
+  name = "GitHub"
+  description = "Advanced (7 years)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
